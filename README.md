@@ -1,2 +1,2 @@
-# Proyecto-Henry
-Este es mi primer repositorio de Henry
+Es mi primer repositorio utilizando Henry
+Fede Flores
